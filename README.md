@@ -34,3 +34,6 @@ brew install --HEAD yggdrasilLabs/tap/minos
 
 See the [Minos README](https://github.com/yggdrasilLabs/minos#readme) for Docker, the price table, and the model
 provider.
+
+The formula is generated. Its source is `packaging/homebrew/minos.rb` in the Minos repository, and the Minos
+release workflow writes `Formula/minos.rb` here on each version tag. Edit the source, not this copy.
