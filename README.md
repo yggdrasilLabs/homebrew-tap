@@ -8,6 +8,7 @@ This tap has the Homebrew formulas of [yggdrasilLabs](https://github.com/yggdras
 brew tap libkrun/krun
 brew trust libkrun/krun
 brew tap yggdrasilLabs/tap
+brew trust yggdrasilLabs/tap
 brew install yggdrasilLabs/tap/minos
 minos host doctor
 ```
